@@ -6,6 +6,9 @@ public interface BillPageSize {
     Double ppi = Double.valueOf(72);
     Double ppi2 = Double.valueOf(72);
 
+
+    Double newone = Double.valueOf(72);
+
     Double width = Double.valueOf(8.268) * ppi;
     Double height = Double.valueOf(11.693) * ppi;
 
