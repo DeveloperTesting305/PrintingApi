@@ -8,6 +8,7 @@ public interface BillPageSize {
 
 
     Double newone = Double.valueOf(72);
+    Double sewone = Double.valueOf(72);
 
     Double width = Double.valueOf(8.268) * ppi;
     Double height = Double.valueOf(11.693) * ppi;
