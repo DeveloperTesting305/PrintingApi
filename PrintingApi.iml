@@ -10,5 +10,6 @@
     <orderEntry type="library" name="json-simple-1.1" level="project" />
     <orderEntry type="library" name="DatabaseConnection" level="project" />
     <orderEntry type="library" name="Commons" level="project" />
+    <orderEntry type="library" name="barcode" level="project" />
   </component>
 </module>

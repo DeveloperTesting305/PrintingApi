@@ -7,7 +7,6 @@ public class Values {
     public static String createFileAttributes = "{\"printingConfig\":{\"selectPrinter\":\"thermalPrinter\",\"address\":\"building no # 45, street 78, city center\",\"noOfItemInTransection\":\"16\",\"shopName\":\"BILAL MART\",\"contactNo\":\"035646555, 0541564854, 02256546\"}}";
 
     public static class PrintingConfig{
-
         public static String objectName = "printingConfig";
         public static String shopName = "shopName";
         public static String address = "address";
@@ -20,6 +19,8 @@ public class Values {
             public static String thermalPrinter = "thermalPrinter";
         }
     }
+
+
 
 
 }

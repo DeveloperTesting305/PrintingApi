@@ -101,7 +101,7 @@ public class BillPrint extends Component implements Printable {
             CustomersBean customersBean = DatabaseManager.db.getCustomerBeanByCustomerId(transectionBean.getCustomerId());
             graphics.setFont(new Font("Open Sans", Font.PLAIN, 10));
             String clientName;
-            if(!transectionBean.getName().equals("")) clientName = transectionBean.getName();
+            if(!transectionBean.getCustName().equals("")) clientName = transectionBean.getCustName();
             else clientName = customersBean.getFirmName();
             graphics.drawString("Client Name : " + clientName, 5, 58);
 

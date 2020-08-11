@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="barcode">
+    <CLASSES>
+      <root url="jar://E:/Software/Library/Barcode Lib/Linear Barcode/BarcodeLib_JavaBarcode_Trial/BarcodeLib_JavaBarcode_Trial/jar-sdk/jdk4/barcode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
